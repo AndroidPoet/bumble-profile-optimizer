@@ -1,0 +1,41 @@
+{
+  "name": "bumble-profile-optimizer",
+  "version": "1.0.0",
+  "description": "Research-backed Bumble profile audits, photo strategy, bio and prompt writing, badge and filter review, and first-message strategy.",
+  "author": {
+    "name": "AndroidPoet",
+    "url": "https://github.com/AndroidPoet"
+  },
+  "homepage": "https://github.com/AndroidPoet/bumble-profile-optimizer",
+  "repository": "https://github.com/AndroidPoet/bumble-profile-optimizer",
+  "license": "MIT",
+  "keywords": [
+    "bumble",
+    "dating-profile",
+    "profile-writing",
+    "photo-selection"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Bumble Profile Optimizer",
+    "shortDescription": "Research-backed profile feedback and rewriting.",
+    "longDescription": "Build a more distinctive and honest Bumble profile through screenshot audits, photo selection, conversational discovery, bio and prompt writing, badge and filter review, and first-message strategy for the 72-hour match window.",
+    "developerName": "AndroidPoet",
+    "category": "Entertainment",
+    "capabilities": [
+      "Interactive",
+      "Write"
+    ],
+    "brandColor": "#F2B705",
+    "composerIcon": "./assets/bumble-profile-logo.png",
+    "logo": "./assets/bumble-profile-logo.png",
+    "websiteURL": "https://github.com/AndroidPoet/bumble-profile-optimizer",
+    "privacyPolicyURL": "https://github.com/AndroidPoet/bumble-profile-optimizer/blob/main/PRIVACY.md",
+    "termsOfServiceURL": "https://github.com/AndroidPoet/bumble-profile-optimizer/blob/main/TERMS.md",
+    "defaultPrompt": [
+      "Audit my current Bumble profile from these screenshots.",
+      "Help me choose and order my six profile photos.",
+      "Interview me and write a Bumble bio and prompts that sound like me."
+    ]
+  }
+}

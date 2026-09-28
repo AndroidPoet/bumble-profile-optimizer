@@ -1,0 +1,17 @@
+{
+  "name": "bumble-profile-optimizer",
+  "version": "1.0.0",
+  "description": "Research-backed Bumble profile audits, photo strategy, bio and prompt writing, badge and filter review, and first-message strategy.",
+  "author": {
+    "name": "AndroidPoet"
+  },
+  "homepage": "https://github.com/AndroidPoet/bumble-profile-optimizer",
+  "repository": "https://github.com/AndroidPoet/bumble-profile-optimizer",
+  "license": "MIT",
+  "keywords": [
+    "bumble",
+    "dating-profile",
+    "profile-writing",
+    "photo-selection"
+  ]
+}

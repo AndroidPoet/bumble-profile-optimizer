@@ -1,0 +1,20 @@
+{
+  "name": "bumble-profile-optimizer",
+  "owner": {
+    "name": "AndroidPoet",
+    "email": ""
+  },
+  "metadata": {
+    "description": "Research-backed Bumble dating profile optimization. Discovery interview, market reality check, photo strategy, bio and prompt writing, badge and filter setup, and first-message strategy.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "bumble-profile-optimizer",
+      "description": "Research-backed Bumble profile optimization covering audit, discovery, photo strategy, bio and prompt writing, badges and filters, implementation, and post-launch review.",
+      "source": "./",
+      "strict": false,
+      "skills": ["./"]
+    }
+  ]
+}
